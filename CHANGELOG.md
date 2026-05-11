@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.3
+
+- Move `@n8n/ai-node-sdk` from `dependencies` to `peerDependencies`. The
+  SDK ships with n8n's runtime; declaring it as a peer rather than a
+  bundled dep keeps the published package's `dependencies` array empty
+  (a requirement for n8n's verified-community-node bar).
+
 ## 0.1.2
 
 - `package.json`: add `author.email` so n8n's verification form can read it
