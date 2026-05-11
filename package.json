@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-anthropic-structured",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n community node: Anthropic Chat Model with constrained-decoding structured outputs via Anthropic's `output_config.format` API. A drop-in replacement for n8n's built-in Anthropic model when you need schema-conformant JSON, not prompt-injected hopes.",
   "license": "MIT",
   "homepage": "https://github.com/dankelleher/n8n-nodes-anthropic-structured#readme",

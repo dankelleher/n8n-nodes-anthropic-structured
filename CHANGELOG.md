@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1
+
+- First release published via GitHub Actions with an npm provenance attestation
+  (SLSA-signed). No code changes vs 0.1.0.
+
 ## 0.1.0 — Initial release
 
 - `Anthropic (Structured)` chat-model sub-node for n8n's AI Agent / Basic LLM Chain.
