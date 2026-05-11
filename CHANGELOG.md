@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2
+
+- `package.json`: add `author.email` so n8n's verification form can read it
+  from the npm registry.
+
 ## 0.1.1
 
 - First release published via GitHub Actions with an npm provenance attestation
